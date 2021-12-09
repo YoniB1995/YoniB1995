@@ -5,7 +5,8 @@ Contact Me -
 
 Focused :rocket:
 
-- 🔭 I’m currently working on more new projects.
 - 🌱 I’m currently Looking for a Full-Stack Developer Role. ( Frontend / Backend Roles as well ).
+- 🔭 Evolving and learning new things every day.
+
 
 
