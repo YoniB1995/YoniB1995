@@ -5,7 +5,7 @@ Contact Me -
 
 Focused :rocket:
 
-- 🌱 I’m currently Looking for a Full-Stack Developer Role. ( Frontend / Backend Roles as well ).
+- 🌱 Full-Stack Developer at GrayMatters Health.
 - 🔭 Evolving and learning new things every day.
 
 
