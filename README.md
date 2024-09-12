@@ -1,7 +1,6 @@
 ### Hi there 👋
 Contact Me -
-- yonatansamfisher@gmail.com
-- My personal Website : https://yonib-personal-website.herokuapp.com/
+- yonibitew@computersoftware.dev
 
 Focused :rocket:
 
