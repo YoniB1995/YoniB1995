@@ -4,7 +4,7 @@ Contact Me -
 
 Focused :rocket:
 
-- 🌱 Full-Stack Developer at GrayMatters Health.
+- 🌱 Full-Stack Developer.
 - 🔭 Evolving and learning new things every day.
 
 
