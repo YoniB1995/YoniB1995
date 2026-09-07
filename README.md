@@ -1,11 +1,22 @@
-### Hi there 👋
-Contact Me -
-- yonibitew@computersoftware.dev
+### 🚀 What I Build
 
-Focused :rocket:
+🤖 **AI & Agentic Systems**
 
-- 🌱 Full-Stack Developer.
-- 🔭 Evolving and learning new things every day.
+☁️ **AWS & Cloud Infrastructure**
 
+⚙️ **Backend Engineering & APIs**
 
+🧩 **Full-Stack Development**
 
+🐳 **Docker & Production Environments**
+
+📡 **Real-Time & Distributed Systems**
+
+🗄️ **Databases & System Architecture**
+
+🔐 **Cloud Security & Infrastructure Design**
+
+> **Ambition sets the direction. Consistency gets me there.**
+
+### 🤝 Business & Collaborations
+📬 **yonibitew@computersoftware.dev**
