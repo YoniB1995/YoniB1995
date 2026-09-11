@@ -1,22 +1,5 @@
-### 🚀 What I Build
+<img width="1365" height="341" alt="image" src="https://github.com/user-attachments/assets/4fb8be98-db24-414e-9c8e-ea5e9a522556" />
 
-🤖 **AI & Agentic Systems**
-
-☁️ **AWS & Cloud Infrastructure**
-
-⚙️ **Backend Engineering & APIs**
-
-🧩 **Full-Stack Development**
-
-🐳 **Docker & Production Environments**
-
-📡 **Real-Time & Distributed Systems**
-
-🗄️ **Databases & System Architecture**
-
-🔐 **Cloud Security & Infrastructure Design**
-
-> **Ambition sets the direction. Consistency gets me there.**
 
 ### 🤝 Business & Collaborations
 📬 **yonibitew@computersoftware.dev**
